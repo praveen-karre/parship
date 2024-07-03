@@ -1,0 +1,10 @@
+/.gradle/buildOutputCleanup/*
+/.gradle/8.2/checksums/*
+/.idea/compiler.xml
+/.gradle/8.2/*
+/.idea/modules/*
+/.gradle/vcs-1/*
+/.idea/*
+
+/build/*
+/.gradle/*
